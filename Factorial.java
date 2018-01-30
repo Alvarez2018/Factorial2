@@ -10,3 +10,4 @@ System.out.println("EL factorial de " +numero "es" +factorial);
 }
 }
 
+# Factorial
